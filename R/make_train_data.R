@@ -33,11 +33,11 @@ pts
 f = 'DJI_0332.JPG'
 crop = 'Soybean'
 
-# f = 'DJI_0392.JPG'
-# crop = 'Corn'
+f = 'DJI_0392.JPG'
+crop = 'Corn'
 # dir.create(file.path(save_dir, crop), recursive = TRUE)
 
-img = stack(file.path(data_dir, crop, f))
+img = stack(file.path(data_dir, 'seg', crop, f))
 
 spts = pts[pts$filename == f, ]
 buf = 64
@@ -67,7 +67,7 @@ for (i in 1:length(spols)) {
   print(i)
   pol = as_Spatial(spols[i])
   imgp = crop(img, pol)
-  img_file = file.path(save_dir, crop, paste0('IMG_', 1000 + i, '.png'))
+  img_file = file.path(save_dir, paste0('IMG_', 3000 + i, '.png'))
   
   rgdal::writeGDAL(as(imgp, "SpatialGridDataFrame"), img_file,
                    drivername = "PNG", type = "Byte"
