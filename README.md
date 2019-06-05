@@ -9,3 +9,6 @@ https://mediaspace.illinois.edu/media/t/1_9mgvq8q0
 
 Pré-curso - Video Aula 3 (29/05/2019) - Modelos de Segmentação e máscaras:  
 https://mediaspace.illinois.edu/media/t/1_u48g2kc7
+
+Pré-curso - Video Aula 4 (05/06/2019) - Segmentação semântica com modelo UNET:  
+https://mediaspace.illinois.edu/media/t/1_d8k7eiop
