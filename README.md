@@ -12,3 +12,6 @@ https://mediaspace.illinois.edu/media/t/1_u48g2kc7
 
 Pré-curso - Video Aula 4 (05/06/2019) - Segmentação semântica com modelo UNET:  
 https://mediaspace.illinois.edu/media/t/1_d8k7eiop
+
+Pré-curso - Video Aula 5 (12/06/2019) - Ampliação dos dados de treinamento:  
+https://mediaspace.illinois.edu/media/t/1_it50im9x
