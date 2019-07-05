@@ -15,3 +15,6 @@ https://mediaspace.illinois.edu/media/t/1_d8k7eiop
 
 Pré-curso - Video Aula 5 (12/06/2019) - Ampliação dos dados de treinamento:  
 https://mediaspace.illinois.edu/media/t/1_it50im9x
+
+Pré-curso - Video Aula 6 (02/07/2019) - Extração de coordenadas:  
+https://mediaspace.illinois.edu/media/t/1_rkcs4r7r
