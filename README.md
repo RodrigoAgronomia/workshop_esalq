@@ -18,3 +18,7 @@ https://mediaspace.illinois.edu/media/t/1_it50im9x
 
 Pré-curso - Video Aula 6 (02/07/2019) - Extração de coordenadas:  
 https://mediaspace.illinois.edu/media/t/1_rkcs4r7r
+
+
+https://mediaspace.illinois.edu/media/t/1_2kmexg36
+https://mediaspace.illinois.edu/media/t/1_rd88383g
