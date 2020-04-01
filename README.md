@@ -1,6 +1,14 @@
 # III International Meeting on Plant Breeding
 Material for the short course on deep learning for image analysis in high throughput phenotyping.
 
+
+### Workshop Part 1 (English):
+https://mediaspace.illinois.edu/media/t/1_2kmexg36  
+
+### Workshop Part 2 (English):
+https://mediaspace.illinois.edu/media/t/1_rd88383g
+
+
 Pré-curso - Video Aula 1 (15/05/2019) - Gerando dados de treinamento e modelos de classificação:  
 https://mediaspace.illinois.edu/media/t/1_t8x9fti7
 
@@ -18,7 +26,3 @@ https://mediaspace.illinois.edu/media/t/1_it50im9x
 
 Pré-curso - Video Aula 6 (02/07/2019) - Extração de coordenadas:  
 https://mediaspace.illinois.edu/media/t/1_rkcs4r7r
-
-
-https://mediaspace.illinois.edu/media/t/1_2kmexg36
-https://mediaspace.illinois.edu/media/t/1_rd88383g
