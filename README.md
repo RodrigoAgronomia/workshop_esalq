@@ -8,6 +8,7 @@ https://mediaspace.illinois.edu/media/t/1_2kmexg36
 ### Workshop Part 2 (English):
 https://mediaspace.illinois.edu/media/t/1_rd88383g
 
+### Preparation (Portuguese):
 
 Pré-curso - Video Aula 1 (15/05/2019) - Gerando dados de treinamento e modelos de classificação:  
 https://mediaspace.illinois.edu/media/t/1_t8x9fti7
